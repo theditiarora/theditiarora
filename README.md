@@ -4,22 +4,22 @@
 
 
 
-💻I am currently a React Js developer 
+💻Currently i am a React JS developer who is interested in breaking into back-end and in exploring other fields
 
-🎨I am enthusiastic about UI designing and keep making new UI everyday
+🎨Good at designing UIs!
 
-🌱I love to keep learning new things everyday and get better at Web Development.
+🌱In my free time you'll either find me flipping through books or painting 
+
+📌I love to explore web dev and deep dive about the concepts that falls under the same.
 
 💭Ask me anything related to front end development
 
 
 ## 🗨How to reach me:
 
-Instagram: https://www.instagram.com/theditiarora/
-
 Email: diti.aromatic@gmail.com
 
-Twitter: https://twitter.com/DitiArora13
+Twitter: https://twitter.com/theditiarora
 
 Linkedin: https://www.linkedin.com/in/diti-arora-a31463209/
 
