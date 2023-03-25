@@ -35,7 +35,7 @@ Linkedin: https://www.linkedin.com/in/diti-arora-a31463209/
 </p>
 
 ### Techs
-[![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react)](https://github.com/theditiarora)
+[![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,firebase)](https://github.com/theditiarora)
 
 
 
