@@ -34,6 +34,8 @@ Linkedin: https://www.linkedin.com/in/diti-arora-a31463209/
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theditiarora&theme=tokyonight&layout=compact" width="28%">
 </p>
 
+### Techs
+[![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react&perline=5)](https://github.com/theditiarora)
 
 
 
