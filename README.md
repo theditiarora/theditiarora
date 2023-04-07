@@ -6,7 +6,7 @@
 
 💻Currently i am a React JS developer who is interested in breaking into back-end and in exploring other fields
 
-🎨Good at designing UIs!
+🎨i am a dev with sweet designing skills
 
 🌱In my free time you'll either find me flipping through books or painting 
 
