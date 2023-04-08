@@ -31,8 +31,12 @@ Linkedin: https://www.linkedin.com/in/diti-arora-a31463209/
 
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=theditiarora&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Diti's Github Stats" width="40%" style="margin-right="40px"">
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theditiarora&theme=tokyonight&layout=compact" width="28%">
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=theditiarora&theme=buefy-dark)](https://git.io/streak-stats)
+
 
 ### Techs
 [![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,next,firebase)](https://github.com/theditiarora)
