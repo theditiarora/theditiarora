@@ -1,6 +1,6 @@
  # Hey 👋
  
-## I am Diti Arora, 13 yo React JS developer from India
+## I am Diti Arora, a 13yo React JS developer from India
 
 
 
@@ -35,7 +35,7 @@ Linkedin: https://www.linkedin.com/in/diti-arora-a31463209/
 </p>
 
 ### Techs
-[![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,firebase)](https://github.com/theditiarora)
+[![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,next,firebase)](https://github.com/theditiarora)
 
 
 
