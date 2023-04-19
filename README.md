@@ -27,7 +27,7 @@ Linkedin: https://www.linkedin.com/in/diti-arora-a31463209/
 
 ### 📍 Here's my portfolio https://www.ditiarora.xyz/
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theditiarora&theme=outrun&layout=compact" width="28%">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theditiarora&layout=compact)](https://github.com/theditiarora/github-readme-stats)
 
 ### Techs
 [![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,next,firebase,vite)](https://github.com/theditiarora)
