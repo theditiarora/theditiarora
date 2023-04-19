@@ -25,11 +25,9 @@ Linkedin: https://www.linkedin.com/in/diti-arora-a31463209/
 <br />
 
 
-### 📍 Here's my portfolio to know more about me https://www.ditiarora.xyz/
+### 📍 Here's my portfolio https://www.ditiarora.xyz/
 
-<p>
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theditiarora&theme=react&line_height=40&hide=css"/> </a>
- 
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theditiarora&theme=react&line_height=40&hide=css"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theditiarora&theme=tokyonight&layout=compact" width="28%">
 </p>
 
