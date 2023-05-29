@@ -30,7 +30,7 @@ Linkedin: https://www.linkedin.com/in/diti-arora-a31463209/
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theditiarora&layout=compact)](https://github.com/theditiarora/github-readme-stats)
 
 ### Techs
-[![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,next,firebase,vite)](https://github.com/theditiarora)
+[![langs](https://skillicons.dev/icons?i=js,html,css,tailwind,figma,react,next,typescript,firebase,vite)](https://github.com/theditiarora)
 
 
 
