@@ -1,6 +1,6 @@
  # Hey 👋
  
-## I am Diti Arora, a 14yo developer from India
+## I am Diti Arora, a developer from India
 
 
 
